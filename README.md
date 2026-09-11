@@ -3,10 +3,10 @@
 
 ___
 
-## Course lecturer
+## Course Lecturer
 Madam Delina Beh Mei Yin
 
-## Member groups
+## Member Groups
 Cahaya Muhammad Yassin bin Zulkafli 52215226002
 
 Mohammad Farid Hadi bin Mohd Fauzi 52215226135
