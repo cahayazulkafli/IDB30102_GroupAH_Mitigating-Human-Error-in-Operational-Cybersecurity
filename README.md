@@ -1,4 +1,4 @@
-# IDB30102 Research Methodology (BCSS): GroupAH
+# IDB30102 Research Methodology (BCSS): Group AH
 # Mitigating Human Error in Operational Cybersecurity: An Evidence-Based Framework
 
 ___
